@@ -1,0 +1,15 @@
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.csproj.AssemblyReference.cache
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
+D:\Обучение\HomeWork5\task38\bin\Debug\net6.0\task38.exe
+D:\Обучение\HomeWork5\task38\bin\Debug\net6.0\task38.deps.json
+D:\Обучение\HomeWork5\task38\bin\Debug\net6.0\task38.runtimeconfig.json
+D:\Обучение\HomeWork5\task38\bin\Debug\net6.0\task38.dll
+D:\Обучение\HomeWork5\task38\bin\Debug\net6.0\task38.pdb
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.dll
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\refint\task38.dll
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.pdb
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\task38.genruntimeconfig.cache
+D:\Обучение\HomeWork5\task38\obj\Debug\net6.0\ref\task38.dll
